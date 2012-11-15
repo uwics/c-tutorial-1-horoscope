@@ -41,5 +41,5 @@ Please add the following missing code to the file given:
 
 Bonus `20 points`
 -------------------
-* Decorate your output and/or create your own loading screen function. `5 points`
-* Allow the program to enter more than one birthdays at a time, using a `WHILE` or `FOR` loop `15 points`
+* Decorate your output and/or create your own loading screen function. -- `5 points`
+* Allow the program to enter more than one birthdays at a time, using a `WHILE` or `FOR` loop -- `15 points`
