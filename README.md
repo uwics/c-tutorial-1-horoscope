@@ -39,7 +39,7 @@ Please add the following missing code to the file given:
 * Print the user's birthday (month and day) and horoscope.
 * Write a horoscope for each sign.
 
-Bonus `50 points`
+Bonus `20 points`
 -------------------
-* Decorate your output and/or create your own loading screen function.
-* Allow the program to enter more than one birthdays at a time, using a `WHILE` or `FOR` loop
+* Decorate your output and/or create your own loading screen function. `5 points`
+* Allow the program to enter more than one birthdays at a time, using a `WHILE` or `FOR` loop `15 points`
